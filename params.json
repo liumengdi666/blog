@@ -1,6 +1,6 @@
 {
-  "name": "Blog",
-  "tagline": "博客",
+  "name": "我的博客空间",
+  "tagline": "关于博客的一些问题",
   "body": "# blog\r\n博客\r\n# blog\r\n# 博客\r\n### 我的博客空间?\r\n`#import <UIKit.h>`\r\n\r\n***\r\n此处为正文，开始写博客啦！",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
